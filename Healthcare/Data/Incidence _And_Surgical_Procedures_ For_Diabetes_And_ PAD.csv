@@ -1,0 +1,11 @@
+State,Hospital_Referral_Region_Name,Overal_Medicare_Beneficiaries_with_Diabetes_and_PAD,Black_Medicare_Beneficiaries_with_Diabetes_and_PAD,Non_Black_Medicare_Beneficiaries_with_Diabetes_and_PAD,Overall_Beneficiaries_with_Leg_Amputation,Black_Beneficiaries_with_Leg_Amputation,Non_Black_Beneficiaries_with_Leg_Amputation,Overall_Beneficiaries_with_Therapeutic_Endovascular_Intervention,Black_Beneficiaries_with_Therapeutic_Endovascular_Intervention,Non_Black_Beneficiaries_with_Therapeutic_Endovascular_Intervention,Overall_Beneficiaries_with_Open_Leg_Bypass,Black_Beneficiaries_with_Open_Leg_Bypass,Non_Black_Beneficiaries_with_Open_Leg_Bypass,Percent_Overall_Beneficiaries_65_75yo_with_Blood_Lipid_Test,Percent_Black_Beneficiaries_65_75yo_with_Blood_Lipid_Test,Percent_Non_Black_Beneficiaries_65_75yo_with_Blood_Lipid_Test,Percent_Overall_Beneficiaries_65_75yo_with_Hgb_A1c_Test,Percent_Black_Beneficiaries_65_75yo_with_Hgb_A1c_Test,Percent_Non_Black_Beneficiaries_65_75yo_with_Hgb_A1c_Test
+Iowa,Dubuque,6315,,,3.6,,,13.7,,,3.7,,,84.9,,,92.8,,
+Idaho,Idaho Falls,9314,,,,,,8.1,,,2.5,,,72.5,,,79.3,,
+Oregon,Salem,6366,24,6342,,,,10.7,,,3.9,,,81.1,,,79.8,,
+Oregon,Bend,8138,32,8106,4.1,,,7.2,,,2.9,,,81.0,,,87.7,,
+Utah,Provo,12660,11,12649,1.5,,,6.4,,,1.6,,,72.1,,,82.1,,
+Wisconsin,Wausau,12500,,,2.6,,,13.4,,,8.2,,,85.0,,,90.3,,
+Wyoming,Casper,8534,24,8510,4.1,,,10.5,,,3.6,,,53.9,,,73.6,,
+Iowa,Mason City,11158,18,11140,2.3,,,9.6,,,4.6,,,73.3,,,87.1,,
+Wisconsin,Neenah,9991,27,9964,4.2,,,10.7,,,5.7,,,87.2,,,92.1,,
+Montana,Billings,24146,49,24097,2.6,,,9.9,,,4.1,,,68.3,,,79.4,,
